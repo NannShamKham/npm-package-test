@@ -1,0 +1,29 @@
+{
+  "name": "shamkham",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^3.2.0"
+  },
+  "description": "show my name everywhere",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/NannShamKham/npm-package-test.git"
+  },
+  "keywords": [
+    "nsk"
+  ],
+  "author": "Nann Sham Kham",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NannShamKham/npm-package-test/issues"
+  },
+  "homepage": "https://github.com/NannShamKham/npm-package-test#readme"
+}
